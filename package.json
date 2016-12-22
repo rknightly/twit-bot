@@ -1,0 +1,16 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "twit": "^2.2.5"
+  }
+}
